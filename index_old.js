@@ -140,7 +140,7 @@ client.on('group_join', async (notification) => {
     console.log('join', notification);
     const botno = notification.chatId.split('@')[0];
     let number = await notification.id.remote;
-    client.sendMessage(number, `Hai perkenalkan aku Inside Bot, selamat datang di group ini`);
+    client.sendMessage(number, `Hai perkenalkan aku Febriano Bot, selamat datang di group ini`);
   
     const chats = await client.getChats();
 
@@ -358,11 +358,11 @@ https://chat.whatsapp.com/CD1DOWJsJXWJvhpY8ud4S5
 
 			  ️*List Menu*
 			
-➡️ !admin = Menu Khusus Admin Grup🏅
-➡️ !menu1 = Fun Menu 🌞
-➡️ !menu2 = Downloader Menu🎞
-➡️ !menu3 = Horoscope Menu 🎇
-➡️ !menu4 = Edukasi Menu 📕 
+➡️ !admin = Khusus Admin Grup
+➡️ !menu1 = Fun  
+➡️ !menu2 = Downloader 
+➡️ !menu3 = Horoscope 
+➡️ !menu4 = Edukasi  
 
 
 
@@ -503,7 +503,7 @@ Artis : *${data.artist}*
 
    ----------------------------------
 👾                          👾
-  _Ytmp3 WhatsApp By InsideBot_
+  _Ytmp3 WhatsApp By FebrianoBot_
 `);
 chat.sendMessage(musik);
 });
@@ -589,7 +589,7 @@ var b = JSON.parse(JSON.stringify(result.data));
  
  Judul = ${b.judul}
  
- Facebook Downloader By InsideHeartz (*´∇｀*)
+ Facebook Downloader By Febrianobot (*´∇｀*)
  `;
  
 exec('wget "' + b.link + '" -O mp4/fbvid.mp4', (error, stdout, stderr) => {
