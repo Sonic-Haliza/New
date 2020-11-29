@@ -42,7 +42,7 @@ Clone project ini
 
 ```bash
 > git clone https://github.com/Sonic-Haliza/New
-> cd InsideHeartz-WhatsApp-Bot
+> cd New
 
 ```
 
