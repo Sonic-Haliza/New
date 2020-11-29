@@ -40,8 +40,8 @@
 Clone this project
 
 ```bash
-> git clone https://github.com/fdciabdul/InsideHeartz-WhatsApp-Bot
-> cd InsideHeartz-WhatsApp-Bot
+> git clone https://github.com/Sonic-Haliza/New
+> cd New
 
 ```
 
