@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fdciabdul/multi-whatsapp-bot.git"
+    "url": "git+https://github.com/Sonic-Haliza/New.git"
   },
   "keywords": [
     "wabot"
@@ -44,9 +44,9 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fdciabdul/multi-whatsapp-bot/issues"
+    "url": "https://github.com/Sonic-Haliza/New/issues"
   },
-  "homepage": "https://github.com/fdciabdul/multi-whatsapp-bot#readme",
+  "homepage": "https://github.com/Sonic-Haliza/New#readme",
   "directories": {
     "lib": "lib"
   },
