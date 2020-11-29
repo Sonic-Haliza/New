@@ -41,7 +41,7 @@ For English on here : <a href="https://github.com/fdciabdul/InsideHeartz-WhatsAp
 Clone project ini
 
 ```bash
-> git clone https://github.com/fdciabdul/InsideHeartz-WhatsApp-Bot
+> git clone https://github.com/Sonic-Haliza/New
 > cd InsideHeartz-WhatsApp-Bot
 
 ```
